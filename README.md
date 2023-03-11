@@ -1,2 +1,3 @@
-# terraform-aws-static-website-s3-cloudfront-acm
-Terraform AWS static website using S3, Cloudfront and ACM
+# Terraform AWS static website using S3, cloudfront & ACM
+
+This module is still under development.
